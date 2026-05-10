@@ -36,17 +36,13 @@ I’m a CS student at UIT-VNU passionate about building responsive and user-frie
 ## 🌱 Currently Exploring
 
 - Python for scripting & ML
-- TensorFlow for ML/DL projects  
-- Advanced React patterns & state management  
+- TensorFlow for ML/DL projects
 
 ## 📬 Get in Touch
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinh-nguyen-022615409" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/coderhangb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/qzinhh2601" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
