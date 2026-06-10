@@ -41,7 +41,7 @@ I’m a CS student at UIT-VNU passionate about building responsive and user-frie
 ## 📬 Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinh-nguyen-022615409" target="_blank">
+  <a href="https://www.linkedin.com/in/vinh-nguyen-uit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/qzinhh2601" target="_blank">
